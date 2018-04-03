@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Golos</string>
+    <string name="account">account</string>
+    <string name="butAdd">Добавить</string>
+    <string name="action_accounts">Аккаунты</string>
+    <string name="action_account">Аккаунт</string>
+</resources>
